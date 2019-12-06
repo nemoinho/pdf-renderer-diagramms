@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-12-06T11:01:08.535Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="oRYvlNsDMlG2QBlTl_1B" version="12.3.7" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-06T11:04:19.712Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="gb2_etmbDiWQ_fA15CXS" version="12.3.7" type="github" pages="4">
   <diagram id="9Qdbks4LsBm_zmxqTYXY" name="Page-1">
     <mxGraphModel dx="2062" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="6UOuq9QrrFTKUcESdB24-1" value="RequestSigner" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="1" vertex="1">
+        <mxCell id="6UOuq9QrrFTKUcESdB24-1" value="UploadSigner" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="1" vertex="1">
           <mxGeometry x="175" y="414" width="78" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="6UOuq9QrrFTKUcESdB24-2" value="MetadataEraser" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="1" vertex="1">
@@ -44,7 +44,7 @@
             <mxPoint x="509" y="494.07480997466337" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5vRPKdQ2K2m3OfhsC5C-2" value="RequestSigner" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="W5vRPKdQ2K2m3OfhsC5C-1" vertex="1">
+        <mxCell id="W5vRPKdQ2K2m3OfhsC5C-2" value="UploadSigner" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" parent="W5vRPKdQ2K2m3OfhsC5C-1" vertex="1">
           <mxGeometry x="470" y="334" width="78" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="W5vRPKdQ2K2m3OfhsC5C-18" value="Metadaten&lt;br&gt;speichern" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" parent="W5vRPKdQ2K2m3OfhsC5C-1" source="W5vRPKdQ2K2m3OfhsC5C-4" target="W5vRPKdQ2K2m3OfhsC5C-8" edge="1">
